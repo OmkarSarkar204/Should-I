@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const proCard = document.getElementById('proCard');
     const conCard = document.getElementById('conCard');
 
-    // API Configuration
+   
     const API_KEY = "YOUR_API_KEY";//Enter your API key
 
 
@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     
-    // MAGNETIC EFFECT (FIXED)
+    // MAGNETIC EFFECT
     const magneticButton = document.querySelector('.magnetic');
     const particleField = document.getElementById('particleField');
 
