@@ -24,7 +24,7 @@ Animations: CSS keyframes and transitions
   cd ai-decision-maker
   ```
 2. Get your Groq API Key
-    Visit Groq Console
+    Visit Groq Console --> https://console.groq.com/home
     Create an account and generate an API key
     Replace the placeholder in script.js:
    ```
