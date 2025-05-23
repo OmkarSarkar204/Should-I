@@ -39,3 +39,11 @@ Animations: CSS keyframes and transitions
 • Bootstrap for responsive design components
 • Inspiration from various decision-making tools and space-themed designs
 
+(https://github.com/user-attachments/assets/82c22c64-c7e4-4588-9c8a-8bb5a31d2237)
+
+
+
+(https://github.com/user-attachments/assets/f4715aa6-263c-4d3e-8ed8-bc3a4e4a7064)
+
+
+
